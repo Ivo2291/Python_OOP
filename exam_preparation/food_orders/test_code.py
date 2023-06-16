@@ -1,7 +1,7 @@
-from food_orders.food_orders_app import FoodOrdersApp
-from food_orders.meals.dessert import Dessert
-from food_orders.meals.main_dish import MainDish
-from food_orders.meals.starter import Starter
+from Python_OOP.exam_preparation.food_orders.food_orders_app import FoodOrdersApp
+from Python_OOP.exam_preparation.food_orders.meals.dessert import Dessert
+from Python_OOP.exam_preparation.food_orders.meals.main_dish import MainDish
+from Python_OOP.exam_preparation.food_orders.meals.starter import Starter
 
 food_orders_app = FoodOrdersApp()
 

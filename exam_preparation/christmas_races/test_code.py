@@ -1,4 +1,4 @@
-from christmas_races.controller import Controller
+from Python_OOP.exam_preparation.christmas_races.controller import Controller
 
 controller = Controller()
 print(controller.create_driver("Peter"))

@@ -1,5 +1,5 @@
-from food_orders.client import Client
-from food_orders.meals.meal import Meal
+from Python_OOP.exam_preparation.food_orders.client import Client
+from Python_OOP.exam_preparation.food_orders.meals.meal import Meal
 
 
 class FoodOrdersApp:

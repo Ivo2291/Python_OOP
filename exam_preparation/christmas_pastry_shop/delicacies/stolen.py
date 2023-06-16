@@ -1,4 +1,4 @@
-from christmas_pastry_shop.delicacies.delicacy import Delicacy
+from Python_OOP.exam_preparation.christmas_pastry_shop.delicacies.delicacy import Delicacy
 
 
 class Stolen(Delicacy):

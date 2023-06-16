@@ -1,7 +1,7 @@
-from christmas_pastry_shop.booths.open_booth import OpenBooth
-from christmas_pastry_shop.booths.private_booth import PrivateBooth
-from christmas_pastry_shop.delicacies.gingerbread import Gingerbread
-from christmas_pastry_shop.delicacies.stolen import Stolen
+from Python_OOP.exam_preparation.christmas_pastry_shop.booths.open_booth import OpenBooth
+from Python_OOP.exam_preparation.christmas_pastry_shop.booths.private_booth import PrivateBooth
+from Python_OOP.exam_preparation.christmas_pastry_shop.delicacies.gingerbread import Gingerbread
+from Python_OOP.exam_preparation.christmas_pastry_shop.delicacies.stolen import Stolen
 
 
 class ChristmasPastryShopApp:

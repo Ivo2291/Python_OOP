@@ -1,8 +1,9 @@
 from collections import deque
-from christmas_races.car.muscle_car import MuscleCar
-from christmas_races.car.sports_car import SportsCar
-from christmas_races.driver import Driver
-from christmas_races.race import Race
+
+from Python_OOP.exam_preparation.christmas_races.car.muscle_car import MuscleCar
+from Python_OOP.exam_preparation.christmas_races.car.sports_car import SportsCar
+from Python_OOP.exam_preparation.christmas_races.driver import Driver
+from Python_OOP.exam_preparation.christmas_races.race import Race
 
 
 class Controller:

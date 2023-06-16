@@ -1,4 +1,4 @@
-from christmas_pastry_shop.booths.booth import Booth
+from Python_OOP.exam_preparation.christmas_pastry_shop.booths.booth import Booth
 
 
 class OpenBooth(Booth):

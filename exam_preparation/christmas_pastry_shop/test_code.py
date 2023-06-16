@@ -1,4 +1,4 @@
-from christmas_pastry_shop.christmas_pastry_shop_app import ChristmasPastryShopApp
+from Python_OOP.exam_preparation.christmas_pastry_shop.christmas_pastry_shop_app import ChristmasPastryShopApp
 
 shop = ChristmasPastryShopApp()
 print(shop.add_delicacy("Gingerbread", "Gingy", 5.20))

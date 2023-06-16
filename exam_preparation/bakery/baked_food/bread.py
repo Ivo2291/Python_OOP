@@ -1,4 +1,4 @@
-from bakery.baked_food.baked_food import BakedFood
+from Python_OOP.exam_preparation.bakery.baked_food.baked_food import BakedFood
 
 
 class Bread(BakedFood):

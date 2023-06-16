@@ -1,4 +1,4 @@
-from astronauts.planet.planet import Planet
+from Python_OOP.exam_preparation.astronauts.planet.planet import Planet
 
 
 class PlanetRepository:

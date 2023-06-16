@@ -1,9 +1,9 @@
-from astronauts.astronaut.astronaut_repository import AstronautRepository
-from astronauts.astronaut.biologist import Biologist
-from astronauts.astronaut.geodesist import Geodesist
-from astronauts.astronaut.meteorologist import Meteorologist
-from astronauts.planet.planet import Planet
-from astronauts.planet.planet_repository import PlanetRepository
+from Python_OOP.exam_preparation.astronauts.astronaut.astronaut_repository import AstronautRepository
+from Python_OOP.exam_preparation.astronauts.astronaut.biologist import Biologist
+from Python_OOP.exam_preparation.astronauts.astronaut.geodesist import Geodesist
+from Python_OOP.exam_preparation.astronauts.astronaut.meteorologist import Meteorologist
+from Python_OOP.exam_preparation.astronauts.planet.planet import Planet
+from Python_OOP.exam_preparation.astronauts.planet.planet_repository import PlanetRepository
 
 
 class SpaceStation:

@@ -1,4 +1,4 @@
-from bakery.drink.drink import Drink
+from Python_OOP.exam_preparation.bakery.drink.drink import Drink
 
 
 class Tea(Drink):

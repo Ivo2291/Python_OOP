@@ -1,4 +1,4 @@
-from astronauts.astronaut.astronaut import Astronaut
+from Python_OOP.exam_preparation.astronauts.astronaut.astronaut import Astronaut
 
 
 class Geodesist(Astronaut):

@@ -1,9 +1,9 @@
-from bakery.baked_food.bread import Bread
-from bakery.baked_food.cake import Cake
-from bakery.drink.tea import Tea
-from bakery.drink.water import Water
-from bakery.table.inside_table import InsideTable
-from bakery.table.outside_table import OutsideTable
+from Python_OOP.exam_preparation.bakery.baked_food.bread import Bread
+from Python_OOP.exam_preparation.bakery.baked_food.cake import Cake
+from Python_OOP.exam_preparation.bakery.drink.tea import Tea
+from Python_OOP.exam_preparation.bakery.drink.water import Water
+from Python_OOP.exam_preparation.bakery.table.inside_table import InsideTable
+from Python_OOP.exam_preparation.bakery.table.outside_table import OutsideTable
 
 
 class Bakery:

@@ -1,4 +1,4 @@
-from bakery.table.table import Table
+from Python_OOP.exam_preparation.bakery.table.table import Table
 
 
 class OutsideTable(Table):

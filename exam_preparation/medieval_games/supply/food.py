@@ -1,4 +1,4 @@
-from medieval_games.supply.supply import Supply
+from Python_OOP.exam_preparation.medieval_games.supply.supply import Supply
 
 
 class Food(Supply):

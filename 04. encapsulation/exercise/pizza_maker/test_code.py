@@ -1,6 +1,6 @@
-from pizza_maker.dough import Dough
-from pizza_maker.pizza import Pizza
-from pizza_maker.topping import Topping
+from dough import Dough
+from pizza import Pizza
+from topping import Topping
 
 tomato_topping = Topping("Tomato", 60)
 print(tomato_topping.topping_type)

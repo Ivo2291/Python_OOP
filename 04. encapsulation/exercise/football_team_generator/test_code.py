@@ -1,5 +1,5 @@
-from football_team_generator.player import Player
-from football_team_generator.team import Team
+from player import Player
+from team import Team
 
 p = Player("Pall", 1, 3, 5, 7)
 

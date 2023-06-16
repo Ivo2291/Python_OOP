@@ -1,5 +1,5 @@
-from hotel_rooms.hotel import Hotel
-from hotel_rooms.room import Room
+from hotel import Hotel
+from room import Room
 
 hotel = Hotel.from_stars(5)
 

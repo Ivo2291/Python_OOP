@@ -1,4 +1,4 @@
-from computer_store.computer_types.computer import Computer
+from computer import Computer
 
 
 class Laptop(Computer):

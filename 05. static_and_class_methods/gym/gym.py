@@ -1,8 +1,8 @@
-from gym.customer import Customer
-from gym.equipment import Equipment
-from gym.exercise_plan import ExercisePlan
-from gym.subscription import Subscription
-from gym.trainer import Trainer
+from customer import Customer
+from equipment import Equipment
+from exercise_plan import ExercisePlan
+from subscription import Subscription
+from trainer import Trainer
 
 
 class Gym:

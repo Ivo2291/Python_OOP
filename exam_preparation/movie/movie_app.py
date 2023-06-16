@@ -1,5 +1,5 @@
-from movie.movie_specification.movie import Movie
-from movie.user import User
+from Python_OOP.exam_preparation.movie.movie_specification.movie import Movie
+from Python_OOP.exam_preparation.movie.user import User
 
 
 class MovieApp:

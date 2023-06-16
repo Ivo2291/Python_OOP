@@ -1,4 +1,4 @@
-from formula_1_manager.f1_season_app import F1SeasonApp
+from f1_season_app import F1SeasonApp
 
 f1_season = F1SeasonApp()
 

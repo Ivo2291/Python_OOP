@@ -1,6 +1,6 @@
-from document_management.category import Category
-from document_management.document import Document
-from document_management.topic import Topic
+from category import Category
+from document import Document
+from topic import Topic
 
 
 class Storage:

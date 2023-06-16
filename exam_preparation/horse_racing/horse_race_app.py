@@ -1,7 +1,7 @@
-from horse_racing.horse_race import HorseRace
-from horse_racing.horse_specification.appaloosa import Appaloosa
-from horse_racing.horse_specification.thoroughbred import Thoroughbred
-from horse_racing.jockey import Jockey
+from Python_OOP.exam_preparation.horse_racing.horse_race import HorseRace
+from Python_OOP.exam_preparation.horse_racing.horse_specification.appaloosa import Appaloosa
+from Python_OOP.exam_preparation.horse_racing.horse_specification.thoroughbred import Thoroughbred
+from Python_OOP.exam_preparation.horse_racing.jockey import Jockey
 
 
 class HorseRaceApp:

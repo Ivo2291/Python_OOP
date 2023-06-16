@@ -1,6 +1,6 @@
-from movie_world.customer import Customer
-from movie_world.dvd import DVD
-from movie_world.movie_world import MovieWorld
+from customer import Customer
+from dvd import DVD
+from movie_world import MovieWorld
 
 c1 = Customer("John", 16, 1)
 c2 = Customer("Anna", 55, 2)

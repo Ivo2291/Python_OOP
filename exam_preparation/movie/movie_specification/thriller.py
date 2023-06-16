@@ -1,4 +1,4 @@
-from movie.movie_specification.movie import Movie
+from Python_OOP.exam_preparation.movie.movie_specification.movie import Movie
 
 
 class Thriller(Movie):

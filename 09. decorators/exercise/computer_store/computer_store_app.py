@@ -1,5 +1,5 @@
-from computer_store.computer_types.desktop_computer import DesktopComputer
-from computer_store.computer_types.laptop import Laptop
+from computer_types.desktop_computer import DesktopComputer
+from computer_types.laptop import Laptop
 
 
 class ComputerStoreApp:

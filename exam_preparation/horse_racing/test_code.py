@@ -1,4 +1,4 @@
-from horse_racing.horse_race_app import HorseRaceApp
+from Python_OOP.exam_preparation.horse_racing.horse_race_app import HorseRaceApp
 
 horseRaceApp = HorseRaceApp()
 print(horseRaceApp.add_horse("Appaloosa", "Spirit", 80))

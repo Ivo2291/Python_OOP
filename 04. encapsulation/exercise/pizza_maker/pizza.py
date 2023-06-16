@@ -1,5 +1,5 @@
-from pizza_maker.dough import Dough
-from pizza_maker.topping import Topping
+from dough import Dough
+from topping import Topping
 
 
 class Pizza:

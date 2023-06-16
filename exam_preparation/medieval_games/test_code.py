@@ -1,7 +1,7 @@
-from medieval_games.controller import Controller
-from medieval_games.player import Player
-from medieval_games.supply.drink import Drink
-from medieval_games.supply.food import Food
+from Python_OOP.exam_preparation.medieval_games.controller import Controller
+from Python_OOP.exam_preparation.medieval_games.player import Player
+from Python_OOP.exam_preparation.medieval_games.supply.drink import Drink
+from Python_OOP.exam_preparation.medieval_games.supply.food import Food
 
 controller = Controller()
 apple = Food("apple", 22)

@@ -1,9 +1,9 @@
-from gym.customer import Customer
-from gym.equipment import Equipment
-from gym.exercise_plan import ExercisePlan
-from gym.gym import Gym
-from gym.subscription import Subscription
-from gym.trainer import Trainer
+from customer import Customer
+from equipment import Equipment
+from exercise_plan import ExercisePlan
+from gym import Gym
+from subscription import Subscription
+from trainer import Trainer
 
 customer = Customer("John", "Maple Street", "john.smith@gmail.com")
 equipment = Equipment("Treadmill")

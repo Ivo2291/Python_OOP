@@ -1,4 +1,4 @@
-from horse_racing.horse_specification.horse import Horse
+from Python_OOP.exam_preparation.horse_racing.horse_specification.horse import Horse
 
 
 class Thoroughbred(Horse):

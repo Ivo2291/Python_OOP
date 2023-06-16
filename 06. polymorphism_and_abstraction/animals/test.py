@@ -1,7 +1,7 @@
-from animals.cat import Cat
-from animals.dog import Dog
-from animals.kitten import Kitten
-from animals.tomcat import Tomcat
+from cat import Cat
+from dog import Dog
+from kitten import Kitten
+from tomcat import Tomcat
 
 dog = Dog("Rocky", 3, "Male")
 print(dog.make_sound())

@@ -1,6 +1,6 @@
-from movie.movie_app import MovieApp
-from movie.movie_specification.action import Action
-from movie.movie_specification.fantasy import Fantasy
+from Python_OOP.exam_preparation.movie.movie_app import MovieApp
+from Python_OOP.exam_preparation.movie.movie_specification.action import Action
+from Python_OOP.exam_preparation.movie.movie_specification.fantasy import Fantasy
 
 movie_app = MovieApp()
 print(movie_app.register_user('Martin', 24))

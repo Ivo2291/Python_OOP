@@ -1,4 +1,4 @@
-from wild_cat_zoo.animal import Animal
+from animal import Animal
 
 
 class Tiger(Animal):

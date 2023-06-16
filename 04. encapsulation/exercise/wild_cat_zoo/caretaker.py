@@ -1,4 +1,4 @@
-from wild_cat_zoo.worker import Worker
+from worker import Worker
 
 
 class Caretaker(Worker):

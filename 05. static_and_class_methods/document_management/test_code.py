@@ -1,7 +1,7 @@
-from document_management.category import Category
-from document_management.document import Document
-from document_management.storage import Storage
-from document_management.topic import Topic
+from category import Category
+from document import Document
+from storage import Storage
+from topic import Topic
 
 c1 = Category(1, "work")
 t1 = Topic(1, "daily tasks", "C:\\work_documents")
